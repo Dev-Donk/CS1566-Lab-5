@@ -12,7 +12,7 @@ Lab 5 for CS1566 was to generate a triangle that can be translated around the sc
 - Text Editor: VSCode
 
 ## Takeaways
-I remember this lab being a lot of fun!
+I remember this lab being a lot of fun! It was cool to finally be able to interact with a graphics application that I built. It was very insightful to me as someone very much interested in the field.
 
 ## Result
 [Lab 5 Result](https://github.com/user-attachments/assets/9e144504-7f6a-4516-a782-1d8d29713a95)
