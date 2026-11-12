@@ -15,4 +15,4 @@ Lab 5 for CS1566 was to generate a triangle that can be translated around the sc
 I remember this lab being a lot of fun!
 
 ## Result
-[Program Result](https://github.com/user-attachments/assets/ef67c274-8df8-449f-982b-a8b1fe001471)
+[Lab 5 Result](https://github.com/user-attachments/assets/9e144504-7f6a-4516-a782-1d8d29713a95)
